@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nashid
 - 👀 I’m interested in Backend engineering with DevOps and AWS cloud.
 - 🌱 I’m expert in Devops workflow, best backend engineering practices.
-- 💞️ Python, Typescript and Java.
+- 💞️ Java, Typescript and JavaScript.
 - 📫 How to reach me -> nashid4722@gmail.com
 
 <!---
